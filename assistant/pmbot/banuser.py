@@ -1,4 +1,4 @@
-# Ultroid - UserBot
+# Naresh - UserBot
 # Copyright (C) 2021 TeamUltroid
 #
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
@@ -42,4 +42,4 @@ async def banhammer(event):
 
     rem_blacklist(target)
     await asst.send_message(event.chat_id, f"#UNBAN\nUser - {target}")
-    await asst.send_message(target, "`Congrats! You have been unbanned.`")
+    await asst.send_message(target, "`UDAH GUA UNBANED KONTOL.`")
