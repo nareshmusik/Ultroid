@@ -15,9 +15,9 @@ STRINGS = {
 • Here, are the Some Basic stuff from, where you can Know, about its Usage.""",
     2: """🎉** About Ultroid**
 
-🧿 Ultroid is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
+🧿 Naresh is Pluggable and powerful Telethon Userbot, made in Python from Scratch. It is Aimed to Increase Security along with Addition of Other Useful Features.
 
-❣ Made by **@TeamUltroid**""",
+❣ Made by **@urfavresh**""",
     3: """**💡• FAQs •**
 
 -> [Username Tracker](https://t.me/UltroidUpdates/24)
